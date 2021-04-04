@@ -1,0 +1,29 @@
+{
+  "python.defaultInterpreterPath": "C:\\Program Files\\Python38\\python.exe",
+  "editor.wordWrap": "on",
+  "window.zoomLevel": 1,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.disableLanguages": [
+    "js"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "workbench.iconTheme": "vscode-icons",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+}
